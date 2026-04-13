@@ -1,5 +1,6 @@
 # Welcome to My Wage Wise Project
 
 Check out the following resources:
-* [Project Overview](./Info/README.md)
-* [Privacy Policy](./Info/Privacy-Policy.md)
+* [Read the Privacy Policy](/Info/Privacy-Policy.md)
+* [View the Documentation (README)](/Info/README.md)
+
