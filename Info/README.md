@@ -2,22 +2,21 @@
 
 ## App Overview
 
-Wage Wise is a comprehensive personal finance tool designed specifically for hourly workers to track, calculate, and optimize their paycheck earnings. Built with a focus on simplicity and accuracy, the app helps users understand their complete compensation picture including overtime, pay raises, and yearly forecasts.
+Wage Wise is a comprehensive personal finance tool designed specifically for sworn MNPD employees to track, calculate, and optimize their paycheck earnings. Built with a focus on simplicity and accuracy, the app helps users understand their complete compensation picture including overtime hours worked, how much overtime will be included on each check, and yearly forecasts.
 
 ## Key Features
 
 ### Paycheck Calculations
-- **Hourly Rate Management**: Set your base hourly rate with automatic yearly salary conversion
+- **Hourly Rate Management**: Set your base yearly pay with automatic hourly salary conversion
 - **Overtime Tracking**: Log overtime hours with automatic rate calculations (straight time and half time multipliers)
 - **Paycheck Forecasts**: See upcoming paycheck amounts based on your work schedule
 - **Pay Rate History**: Track salary increases over time with automatic effective date calculations
 
 ### Financial Planning
-- **Log Overtime**: Log overtime hours worked using calendar for easy date selection. Include number of hours work and optional description
 - **Paycheck Forecast**: Real-time overview of current pay rates, multipliers, and base pay per paycheck
 - **Yearly Forecasts**: Comprehensive annual earnings projections with month-by-month breakdown
-- **Year-over-Year Comparisons**: Compare earnings and hours between current and previous years
-- **PDF Exports**: Generate detailed reports of your earnings and forecasts
+- **Year-over-Year Comparisons**: Compare earnings and hours between current and previous years with year to date comparisons for hours worked and money earned
+- **PDF Exports**: Generate detailed reports of your earnings and forecasts estimations
 
 ### User Experience
 - **Beautiful Interface**: Modern, clean design with smooth animations and transitions
